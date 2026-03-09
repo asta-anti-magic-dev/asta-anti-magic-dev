@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Asta
 
-<!--
-**asta-anti-magic-dev/asta-anti-magic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🩺 Medical student | 🐍 Learning Python | 🌐 Web scraping & automation projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- Small Python scripts and beginner web scraping projects  
+- Organizing my GitHub repos to track learning progress  
+
+### 🌱 Currently learning
+- Python programming (loops, functions, file handling)  
+- Web scraping using BeautifulSoup & requests  
+- Git & GitHub workflow  
+
+### 👯 Looking to collaborate on
+- Beginner-friendly Python projects  
+- Automation and small web scraping scripts  
+
+### 🤔 Looking for help with
+- APIs & connecting scripts to real data sources  
+- Improving Python code efficiency  
+
+### 💬 Ask me about
+- Python basics, loops, functions  
+- Web scraping  
+- GitHub repo management  
+
+### 📫 How to reach me
+- Email: mungaicharles690@gmail.com  
+
+### 😄 Pronouns
+he/him  
+
+### ⚡ Fun fact
+Big fan of Asta from *Black Clover* 😎
+
+
